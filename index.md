@@ -1,4 +1,4 @@
-## Downloads for timerapp - a free online tool to help you count work hours
+## Downloads for timerapp - a free offline tool to help you count work hours
 
 ### LATEST RELEASE:
 
