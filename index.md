@@ -4,6 +4,6 @@
 
 ### [Version 1.01 Released 2/6/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
 
-**Does NOT require Administrative privalages to install**
+**Does NOT require Administrative privileges to install**
 
 ### The official website domain for timerapp is: [http://timerapp.tk](http://timerapp.tk)
