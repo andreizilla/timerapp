@@ -3,3 +3,5 @@
 ### LATEST RELEASE:
 
 ### [Version 1.01 Released 2/6/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
+
+### The official website domain for timerapp is: [http://timerapp.tk](http://timerapp.tk)
