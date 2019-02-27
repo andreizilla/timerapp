@@ -6,4 +6,7 @@
 
 **Does NOT require Administrative privileges to install**
 
+History:
+Version 1.01 Released 2/6/2019
+
 ### The official website domain for timerapp is: [http://timerapp.tk](http://timerapp.tk)
