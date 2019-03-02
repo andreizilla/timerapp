@@ -12,6 +12,7 @@ Version 1.04 Released 3/1/2019
 - Added custom backrgound theme support (In Settings page)
 
 Screenshot of the new custom backrgound theme support (To get a Custom background image, go to the Settings page on the top menu, and change the Background image setting):
+
 <img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp_report_small.png" />
 
 Version 1.02 Released 2/27/2019
