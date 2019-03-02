@@ -2,7 +2,7 @@
 
 ### LATEST RELEASE:
 
-### [Version 1.02 Released 2/27/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
+### [Version 1.04 Released 3/1/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
 
 **Does NOT require Administrative privileges to install**
 
