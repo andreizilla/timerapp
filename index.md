@@ -15,8 +15,6 @@ Screenshot of the new custom backrgound theme support (To get a Custom backgroun
 
 <img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp_report_small.png" />
 
-<img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp_report_2.png" />
-
 Version 1.02 Released 2/27/2019
 - Bug fixes
 - Small improvements
