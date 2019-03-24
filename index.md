@@ -2,11 +2,14 @@
 
 ### LATEST RELEASE:
 
-### [Version 1.04 Released 3/1/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
+### [Version 1.06 Released 3/23/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
 
 **Does NOT require Administrative privileges to install**
 
 History:
+Version 1.06 Released 3/23/2019
+- Search support with #hashtag support... try adding a hashtag to your activity Notes
+
 Version 1.04 Released 3/1/2019
 - Added timesheet/week view
 - Added custom backrgound theme support (In Settings page)
