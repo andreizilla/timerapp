@@ -1,12 +1,17 @@
-## Downloads for timerapp - a free offline tool to help you count work hours
+## Download timerapp - a free offline tool to help you count work hours
 
 ### LATEST RELEASE:
 
-### [Version 1.06 Released 3/23/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
+### Download here: [Version 1.08 Released 3/25/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
 
-**Does NOT require Administrative privileges to install**
+**timerapp NOT require Administrative privileges to install, but you might get prompted in Install Microsoft IIS Express (which is the web server that hosts the timerapp files on your computer)**
+
+After installing, you will have a **"Start timerapp"** stortcut in your **Start menu**.
 
 History:
+Version 1.08 Released 3/25/2019
+- Improved UI
+
 Version 1.06 Released 3/23/2019
 - Search support with #hashtag support... try adding a hashtag to your activity Notes
 
