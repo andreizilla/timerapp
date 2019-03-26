@@ -4,6 +4,8 @@
 
 ### Download here: [Version 1.08 Released 3/25/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
 
+**timerapp is a Microsoft Windows application**
+
 **timerapp NOT require Administrative privileges to install, but you might get prompted in Install Microsoft IIS Express (which is the web server that hosts the timerapp files on your computer)**
 
 Timerapp is a website (web app) which runs on your computer locally, at the address "http://localhost:8080". It is useful to have a bookmark to timerapp in your browser to help you stay productive at the office.
