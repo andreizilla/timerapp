@@ -8,7 +8,30 @@
 
 After installing, you will have a **"Start timerapp"** stortcut in your **Start menu**.
 
+### Screenshots:
+
+Main user dashboard:
+
+<img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp-dashboard.png" />
+
+Timer report (Timesheet view):
+
+<img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp-report.png" />
+
+Timer report (Activity details and Notes):
+
+<img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp-report2.png" />
+
+Search results (with automaticaly link-afied hashtag support):
+
+<img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp-search.png" />
+
+Screenshot of the new custom backrgound theme support (To get a Custom background image, go to the Settings page on the top menu, and change the Background image setting):
+
+<img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp_report_small.png" />
+
 History:
+
 Version 1.08 Released 3/25/2019
 - Improved UI
 
@@ -19,15 +42,12 @@ Version 1.04 Released 3/1/2019
 - Added timesheet/week view
 - Added custom backrgound theme support (In Settings page)
 
-Screenshot of the new custom backrgound theme support (To get a Custom background image, go to the Settings page on the top menu, and change the Background image setting):
-
-<img src="https://raw.githubusercontent.com/andreizilla/timerapp/master/timerapp_report_small.png" />
-
 Version 1.02 Released 2/27/2019
 - Bug fixes
 - Small improvements
 
 Version 1.01 Released 2/6/2019
 - Initial Windows release
+
 
 ### The official website domain for timerapp is: [http://timerapp.tk](http://timerapp.tk)
