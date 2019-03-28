@@ -2,7 +2,7 @@
 
 ### LATEST RELEASE:
 
-### Download here: [Version 1.08 Released 3/25/2019](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
+### Download here: [timerapp version 1.08](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
 
 **timerapp is a Microsoft Windows application**
 
