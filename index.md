@@ -8,7 +8,7 @@
 
 **timerapp NOT require Administrative privileges to install, but you might get prompted in Install Microsoft IIS Express (which is the web server that hosts the timerapp files on your computer)**
 
-Timerapp is a website (web app) which runs on your computer locally, at the address "http://localhost:8080". It is useful to have a bookmark to timerapp in your browser to help you stay productive at the office.
+Timerapp is a website (web app) which runs on your computer locally, at the address "http://localhost:8080/start.php". It is useful to have a bookmark to timerapp in your browser to help you stay productive at the office.
 
 After installing, you will have a **"Start timerapp"** stortcut in your **Start menu**.
 
