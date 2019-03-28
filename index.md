@@ -10,7 +10,7 @@
 
 Timerapp is a website (web app) which runs on your computer locally, at the address "http://localhost:8080/start.php". It is useful to have a bookmark to timerapp in your browser to help you stay productive at the office.
 
-After installing, you will have a **"Start timerapp"** stortcut in your **Start menu**.
+After installing, you will have a **"Start timerapp"** stortcut in your **Start menu** and **Desktop**.
 
 ### Screenshots:
 
