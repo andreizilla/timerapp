@@ -4,6 +4,8 @@
 
 ### Download here: [timerapp version 1.08](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
 
+REQUIRED: Also install this: https://www.microsoft.com/en-us/download/details.aspx?id=14632 
+
 **timerapp is a Microsoft Windows application**
 
 **timerapp NOT require Administrative privileges to install, but you might get prompted in Install Microsoft IIS Express (which is the web server that hosts the timerapp files on your computer)**
