@@ -4,7 +4,7 @@
 
 ### Download here: [timerapp version 1.08](https://github.com/andreizilla/timerapp/raw/master/timerapp.msi)
 
-REQUIRED: Also install this: https://www.microsoft.com/en-us/download/details.aspx?id=30679
+REQUIRED: Also install this: [Visual C++ Redistributable for Visual Studio 2012](https://www.microsoft.com/en-us/download/details.aspx?id=30679)
 
 at the page "Choose the download you want":
 
@@ -12,6 +12,7 @@ at the page "Choose the download you want":
 
 32-bit computer: Check ***"VSU_4\vcredist_x86.exe"*** 
 
+<hr />
 
 **timerapp is a Microsoft Windows application**
 
